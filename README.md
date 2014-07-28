@@ -3,6 +3,10 @@
 Enables KDE folderview (allows desktop shortcuts) and sets Whonix-Gateway
 specific wallpaper.
 
+This package only takes effect for newly created user accounts. Not for
+existing user accounts. This package is most useful to help Linux distribution
+maintainers setting divergent defaults.
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Generic Readme #
