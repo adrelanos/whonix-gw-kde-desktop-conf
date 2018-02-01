@@ -1,3 +1,47 @@
+commit 253063af4accdea3f8990dec4359d1c93c3549d0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 1 15:26:59 2018 +0100
+
+    add boilerplate whonix-gw-kde-desktop-conf.postinst
+    
+    to implement wallpaper changing later
+
+commit 96f7e6017a47deb9fef9d2b0455fd28d807483c3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:50:56 2018 +0000
+
+    readme
+
+commit 3db0b6620425382c9d629e57ac2351a34ae9a506
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:39:04 2018 +0000
+
+    update copyright
+
+commit 077d3591027491628be904014acabea2c06228ec
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:22:13 2018 +0000
+
+    update copyright
+
+commit 1e2658ae7c1fa756bc2965b822f0ae3e24070350
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:15:24 2018 +0000
+
+    update copyright
+
+commit d0d6d190c5b7db368cb4da59002a32b24c895509
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:09:49 2018 +0000
+
+    update copyright
+
+commit d2ec55f001b178173dec24c29b40b0bf8793495b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Feb 27 02:05:59 2017 +0000
+
+    bumped changelog version
+
 commit 02f67d38f929408918f17876c418efdb3497403f
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Feb 21 21:14:10 2017 +0000
