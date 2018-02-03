@@ -13,7 +13,7 @@ Standards-Version: 3.9.8
 
 Package: whonix-gw-kde-desktop-conf
 Architecture: all
-Depends: plasma-widget-folderview, qtchooser, kde-wallpapers-default,
+Depends: qtchooser, kde-wallpapers-default,
  ${misc:Depends}
 Description: KDE Desktop Settings for Whonix-Gateway
  Enables KDE folderview (allows desktop shortcuts) and sets Whonix-Gateway
