@@ -1,3 +1,57 @@
+commit 5c01e0b40476f4d6f0252a1afb5266b2ffec2cf2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 16:11:30 2018 +0000
+
+    debugging
+
+commit 858901de83d3aeb4aaeeec8128c89c125cd875a4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 16:06:35 2018 +0000
+
+    handle timeout
+
+commit 39a5fc50c3affe64ed9d46662422c5ad1adb2474
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 16:04:17 2018 +0000
+
+    silence errors
+
+commit 413c9c968897a8a62cc5e15d69825ecfe7ad9a46
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 15:32:06 2018 +0000
+
+    protect against failure
+
+commit 6ac602ddf30b24c87eebf20425bc76461e4e18bb
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 15:30:16 2018 +0000
+
+    remove no longer existing dependency package plasma-widget-folderview
+
+commit dc97edfb65776a8b0c368ac649a9b88fb29da26d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 15:28:53 2018 +0000
+
+    fix
+
+commit 7171f8ec203922fca53ccb45368f234ee42b4b7a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Feb 3 16:18:22 2018 +0100
+
+    Set custom wallpaper from package kde-wallpapers-default on Whonix-Gateway.
+    
+    To aid not confusing one for the other VM.
+    
+    Thanks to @Algernon for the suggestion on how to implement this!
+    
+    https://forums.whonix.org/t/use-different-wallpaper-for-whonix-gateway-to-distinguish-from-whonix-workstation/4744/2
+
+commit e01ebd24ded1cbd35ad62a79c94ad4ed09ea34da
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 1 15:32:33 2018 +0000
+
+    bumped changelog version
+
 commit 253063af4accdea3f8990dec4359d1c93c3549d0
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Feb 1 15:26:59 2018 +0100
